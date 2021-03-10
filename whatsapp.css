@@ -458,7 +458,7 @@ font-family: 'Noto Serif', serif;
 font-family: 'Noto Serif', serif;
 }
 .wa__popup_chat_box .wa__popup_content{
-    background: #ffffff;
+    background-image:url(https://cdn.join.chat/app/uploads/2020/05/whatsapp-bg.png);
     padding: 13px 20px 21px 19px;
     text-align: center;
 }
